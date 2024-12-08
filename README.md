@@ -10,12 +10,12 @@ The project focuses on extracting data from X(Twitter) using Python, transformin
 - Python libraries: pandas, tweepy, s3fs (sudo pip install pandas tweepy s3fs)
 - X(twitter) APIs
 
-**Commands used(terminal)**:
-C:\Users\Admin>
-     step1.└── C:\Users\Admin>cd C:\Users\Admin\Downloads
-                              └──(command) └──(path of sahith key(key pair))                                                                                                                                                   
-         step2.└── C:\Users\Admin\Downloads>"ssh -i paste SSH client "                  
-                                              └── aws connect 2 instance (ssh client)                                                                                                                                            
+**Commands used(terminal)**:                                                                                                                                                                                                                                                                                                            
+C:\Users\Admin>                                                                                                                                                     
+     step1.└── C:\Users\Admin>cd C:\Users\Admin\Downloads                                                                                                           
+                              └──(command) └──(path of sahith key(key pair))                                                                                                                                                                                                                                           
+         step2.└── C:\Users\Admin\Downloads>"ssh -i paste SSH client"                                                                                        
+                                              └── aws connect 2 instance (ssh client)                                                                                                                                                                                                                           
              step3.└── ubuntu@ip-address:~$   (we get this finally, connection b/w EC2 --> Ubuntu successfull )   
 
 sudo apt-get update
