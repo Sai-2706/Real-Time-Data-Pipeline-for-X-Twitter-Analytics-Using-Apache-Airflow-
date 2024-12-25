@@ -1,4 +1,4 @@
-# Real-Time-Data-Pipeline-for-X-Twitter-Analytics-Using-Apache-Airflow-
+# Real-Time-Data-Pipeline-for-X-Twitter-Analytics-Using-Apache-Airflow
 
 The main agenda behind the project is about building an end-to-end data engineering pipeline.
 The project focuses on extracting data from X(Twitter) using Python, transforming it with Pandas, and storing the processed data in an Amazon S3 bucket, all orchestrated through Apache Airflow.
